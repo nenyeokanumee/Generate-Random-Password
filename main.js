@@ -1,6 +1,6 @@
 const passwordBox = document.getElementById("password");
 const copyResult = document.getElementById("copyResult");
-const length = 10;
+const length = 15;
 
 const upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const lowerCase = "abcdefghijklmnopqrstuvwxyz";
